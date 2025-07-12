@@ -23,10 +23,7 @@ This is a fully responsive web application built with **HTML**, **CSS**, and **J
 1. Clone or download the repository
 2. Replace `'YOUR_API_KEY'` in the script with your free [Pixabay API key](https://pixabay.com/api/docs/)
 3. Open `index.html` in your browser
-
-## 📸 Screenshot
-_(Add a screenshot of your webpage here)_
-
+   
 ## License
 This project is licensed under the MIT License.
 
